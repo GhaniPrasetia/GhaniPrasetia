@@ -1,0 +1,101 @@
+<h1 align="center">Hi 👋, I'm Ghani Prasetia</h1>
+<h3 align="center">I have been working as a freelancer, I am responsible for implementing programming languages, especially PHP with the Laravel framework.</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ghaniprasetia&label=Profile%20views&color=0e75b6&style=flat" alt="ghaniprasetia" /> </p>
+
+- 📫 How to reach me **ghaniprasetia@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/ghani-prasetia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ghani-prasetia" height="30" width="40" /></a>
+<a href="https://instagram.com/ghani_prasetia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ghani_prasetia" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ghaniprasetia&show_icons=true&locale=en&layout=compact" alt="ghaniprasetia" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ghaniprasetia&show_icons=true&locale=en" alt="ghaniprasetia" /></p>
+
+
+ 
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skill Saya</b>
+<div style = display: flex; justify-content: space-between; margin-bottom: 20px;>
+    <div class="row">
+        <div class="col-lg-4" style="flex: 0 0 32%; background-color: #f4f4f4; border-radius: 5px; padding: 20px; box-sizing: border-box; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
+            <h2>Framework</h2>
+            <p>Laravel</p>
+            <p>Codeigniter</p>
+        </div>
+        <div class="col-lg-4">
+            <h2>Database</h2>
+            <p>MYSQL</p>
+            <p>SQL Server</p>
+        </div>
+        <div class="col-lg-4">
+            <h2>Tools</h2>
+            <p>HTML</p>
+            <p>CSS</p>
+            <p>JAVASCRIPT</p>
+            <p>Leaflet JS</p>
+            <p>Amchart JS</p>
+        </div>
+        <!-- Repeat for other technologies -->
+    </div>
+</div>
+<br>
+
+<div align="center">
+
+## 🔥 Streak Stats
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=GhaniPrasetia&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=541" alt="GitHub Streak" /></a>
+
+</div>
+
+<br>
+<br>
+
+<!-- --- -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
+<br>
+<br>
+
+<div align="center">
+
+## 🏆 Git profile Trophies
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=GhaniPrasetia&layout=compact&theme=algolia" alt="GhaniPrasetia" /></a> </p>
+
+</div>
+
+<br>
+<br>
+
+<!-- --- -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br>
+<br>
+
+<div align="center">
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Github Analytics
+
+<a href="https://github.com/GhaniPrasetia">
+  <img align="center" height="180em" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=ghaniprasetia&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Ridwan Renaldi stats" />
+  <img align="center" height="180em" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ghaniprasetia&layout=compact&theme=material-palenight" />
+</a>
+
+</div>
+
+<br>
+<br>
+
+<!-- --- -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br>
+<br>
